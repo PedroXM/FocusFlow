@@ -1,13 +1,12 @@
 FocusFlow
+
 FocusFlow é um aplicativo desenvolvido para ajudar usuários a melhorar sua produtividade e foco no dia a dia. Com uma interface intuitiva e recursos personalizáveis, o app oferece ferramentas essenciais para gerenciar tarefas, organizar rotinas e acompanhar o progresso pessoal.
 
 
 🚀 Funcionalidades
 ✅ Organização de tarefas por categoria.
 
-✅ Timer integrado para técnicas de foco (ex.: Pomodoro).
-
-✅ Sistema de notificações para lembretes importantes.
+✅ Timer integrado para técnica de foco  Pomodoro.
 
 ✅ Interface limpa e responsiva.
 
@@ -27,9 +26,7 @@ AsyncStorage: para armazenamento local de dados.
 React Navigation: gerenciamento de navegação entre telas.
 
 🏗️ Estrutura do Projeto
-bash
-Copiar
-Editar
+
 FocusFlow/
 ├── assets/               # Imagens e ícones
 ├── components/          # Componentes reutilizáveis
